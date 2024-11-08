@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TabErica Meng Ziqi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning applied economics at CUHK(SZ). Learning how to develop websites and SEO too.
+- 🌱 I’m currently majoring in applied economics at CUHK(SZ). But learning development and CS.
 - 💞️ I’m looking to collaborate on fun things
 - 📫 How to reach me: ziqimeng@link.cuhk.edu.cn
 - 😄 Pronouns: she/her
